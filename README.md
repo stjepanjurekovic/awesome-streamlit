@@ -66,6 +66,10 @@ A curated list of awesome streamlit resources. Inspired by [awesome-python](http
 - [Repo](https://github.com/marcskovmadsen/awesome-streamlit) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) (#Awesome-Streamlit.org)
 - [Resources List](https://github.com/marcskovmadsen/awesome-streamlit) by [Awesome-Streamlit.org](https://github.com/marcskovmadsen/awesome-streamlit) (#Awesome-Streamlit.org)
 
+### Books
+
+- [Streamlit in Action](https://www.manning.com/books/streamlit-in-action) by [Aneev Kochakadan](http://linkedin.com/in/aneevdavis)(#Books)
+
 ### Code
 
 - [Awesome Streamlit Test Runner](https://raw.githubusercontent.com/MarcSkovMadsen/awesome-streamlit/master/gallery/test_runner_app/test_runner_app.py) by [Marc Skov Madsen](https://datamodelsanalytics.com) (#App In Gallery, #Code)
